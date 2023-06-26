@@ -1,7 +1,7 @@
 <b>MSc Computer Science - Data Science & Technology</b><br>University of Twente<br>Information Retrieval Project
 <h1> Comparing Different Feature Extractor Methods for Content–Based Image
 Retrieval </h1>
-Gianmarco Lodi </br> Alessandro Cortese </br> 10-2022
+Gianmarco Lodi </br> Alessandro Cortese </br> 11-2022
 
 <a href="https://drive.google.com/file/d/1bVkvZjcD1wWbhgpoFM3R8S6zCRbssuR4/view?usp=sharing">PROJECT PAPER</a>
 </br>
